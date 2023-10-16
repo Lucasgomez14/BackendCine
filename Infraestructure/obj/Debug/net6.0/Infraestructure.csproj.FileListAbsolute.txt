@@ -1,0 +1,57 @@
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Infraestructure\bin\Debug\net6.0\Infraestructure.deps.json
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Infraestructure\bin\Debug\net6.0\Infraestructure.runtimeconfig.json
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Infraestructure\bin\Debug\net6.0\Infraestructure.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Infraestructure\bin\Debug\net6.0\Infraestructure.pdb
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Infraestructure\bin\Debug\net6.0\Application.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Infraestructure\bin\Debug\net6.0\Domain.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Infraestructure\bin\Debug\net6.0\Application.pdb
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Infraestructure\bin\Debug\net6.0\Domain.pdb
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Infraestructure\obj\Debug\net6.0\Infraestructure.csproj.AssemblyReference.cache
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Infraestructure\obj\Debug\net6.0\Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Infraestructure\obj\Debug\net6.0\Infraestructure.AssemblyInfoInputs.cache
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Infraestructure\obj\Debug\net6.0\Infraestructure.AssemblyInfo.cs
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Infraestructure\obj\Debug\net6.0\Infraestructure.csproj.CoreCompileInputs.cache
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Infraestructure\obj\Debug\net6.0\Infraestructure.csproj.CopyComplete
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Infraestructure\obj\Debug\net6.0\Infraestructure.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Infraestructure\obj\Debug\net6.0\refint\Infraestructure.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Infraestructure\obj\Debug\net6.0\Infraestructure.pdb
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Infraestructure\obj\Debug\net6.0\Infraestructure.genruntimeconfig.cache
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Infraestructure\obj\Debug\net6.0\ref\Infraestructure.dll
+C:\Users\Lucas\Desktop\Nueva carpeta\Infraestructure\bin\Debug\net6.0\Infraestructure.deps.json
+C:\Users\Lucas\Desktop\Nueva carpeta\Infraestructure\bin\Debug\net6.0\Infraestructure.runtimeconfig.json
+C:\Users\Lucas\Desktop\Nueva carpeta\Infraestructure\bin\Debug\net6.0\Infraestructure.dll
+C:\Users\Lucas\Desktop\Nueva carpeta\Infraestructure\bin\Debug\net6.0\Infraestructure.pdb
+C:\Users\Lucas\Desktop\Nueva carpeta\Infraestructure\bin\Debug\net6.0\Application.dll
+C:\Users\Lucas\Desktop\Nueva carpeta\Infraestructure\bin\Debug\net6.0\Domain.dll
+C:\Users\Lucas\Desktop\Nueva carpeta\Infraestructure\bin\Debug\net6.0\Application.pdb
+C:\Users\Lucas\Desktop\Nueva carpeta\Infraestructure\bin\Debug\net6.0\Domain.pdb
+C:\Users\Lucas\Desktop\Nueva carpeta\Infraestructure\obj\Debug\net6.0\Infraestructure.csproj.AssemblyReference.cache
+C:\Users\Lucas\Desktop\Nueva carpeta\Infraestructure\obj\Debug\net6.0\Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Desktop\Nueva carpeta\Infraestructure\obj\Debug\net6.0\Infraestructure.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\Nueva carpeta\Infraestructure\obj\Debug\net6.0\Infraestructure.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\Nueva carpeta\Infraestructure\obj\Debug\net6.0\Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\Nueva carpeta\Infraestructure\obj\Debug\net6.0\Infraestructure.csproj.CopyComplete
+C:\Users\Lucas\Desktop\Nueva carpeta\Infraestructure\obj\Debug\net6.0\Infraestructure.dll
+C:\Users\Lucas\Desktop\Nueva carpeta\Infraestructure\obj\Debug\net6.0\refint\Infraestructure.dll
+C:\Users\Lucas\Desktop\Nueva carpeta\Infraestructure\obj\Debug\net6.0\Infraestructure.pdb
+C:\Users\Lucas\Desktop\Nueva carpeta\Infraestructure\obj\Debug\net6.0\Infraestructure.genruntimeconfig.cache
+C:\Users\Lucas\Desktop\Nueva carpeta\Infraestructure\obj\Debug\net6.0\ref\Infraestructure.dll
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\TP2\Infraestructure\bin\Debug\net6.0\Infraestructure.deps.json
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\TP2\Infraestructure\bin\Debug\net6.0\Infraestructure.runtimeconfig.json
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\TP2\Infraestructure\bin\Debug\net6.0\Infraestructure.dll
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\TP2\Infraestructure\bin\Debug\net6.0\Infraestructure.pdb
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\TP2\Infraestructure\bin\Debug\net6.0\Application.dll
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\TP2\Infraestructure\bin\Debug\net6.0\Domain.dll
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\TP2\Infraestructure\bin\Debug\net6.0\Application.pdb
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\TP2\Infraestructure\bin\Debug\net6.0\Domain.pdb
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\TP2\Infraestructure\obj\Debug\net6.0\Infraestructure.csproj.AssemblyReference.cache
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\TP2\Infraestructure\obj\Debug\net6.0\Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\TP2\Infraestructure\obj\Debug\net6.0\Infraestructure.AssemblyInfoInputs.cache
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\TP2\Infraestructure\obj\Debug\net6.0\Infraestructure.AssemblyInfo.cs
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\TP2\Infraestructure\obj\Debug\net6.0\Infraestructure.csproj.CoreCompileInputs.cache
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\TP2\Infraestructure\obj\Debug\net6.0\Infraestructure.csproj.CopyComplete
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\TP2\Infraestructure\obj\Debug\net6.0\Infraestructure.dll
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\TP2\Infraestructure\obj\Debug\net6.0\refint\Infraestructure.dll
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\TP2\Infraestructure\obj\Debug\net6.0\Infraestructure.pdb
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\TP2\Infraestructure\obj\Debug\net6.0\Infraestructure.genruntimeconfig.cache
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\TP2\Infraestructure\obj\Debug\net6.0\ref\Infraestructure.dll
