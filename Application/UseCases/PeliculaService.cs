@@ -1,6 +1,5 @@
 ﻿using Application.Exceptions;
 using Application.Interfaces;
-using Application.Mappers;
 using Application.Request;
 using Application.Response;
 using Domain.Entities;

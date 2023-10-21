@@ -1,11 +1,6 @@
 ﻿using Application.Interfaces;
 using Application.Response;
 using Domain.Entities;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Application.Mappers
 {
@@ -13,7 +8,7 @@ namespace Application.Mappers
     {
         private readonly ISalaMapper _salaMapper;
         private readonly IPeliculaMapper _peliculaMapper;
-        public FuncionMapper(IPeliculaMapper peliculaMapper, ISalaMapper salaMapper) 
+        public FuncionMapper(IPeliculaMapper peliculaMapper, ISalaMapper salaMapper)
         {
             _salaMapper = salaMapper;
             _peliculaMapper = peliculaMapper;
@@ -24,24 +19,7 @@ namespace Application.Mappers
             {
                 funcionId = newFuncion.FuncionId,
                 pelicula = await _peliculaMapper.GeneratePeliculaGetResponse(newFuncion.Pelicula),
-                //pelicula = new PeliculaGetResponse
-                //{
-                //    peliculaId = newFuncion.Pelicula.PeliculaId,
-                //    titulo = newFuncion.Pelicula.Titulo,
-                //    poster = newFuncion.Pelicula.Poster,
-                //    genero = new Response.Genero
-                //    {
-                //        id = newFuncion.Pelicula.Genero.GeneroId,
-                //        nombre = newFuncion.Pelicula.Genero.Nombre,
-                //    },
-                //},
                 sala = await _salaMapper.GetSalaResponse(newFuncion.Sala),
-                //sala = new Response.Sala
-                //{
-                //    id = newFuncion.Sala.SalaId,
-                //    nombre = newFuncion.Sala.Nombre,
-                //    capacidad = newFuncion.Sala.Capacidad,
-                //},
                 fecha = newFuncion.Fecha.ToString("dd-MM-yyyy"),
                 horario = newFuncion.Horario.ToString("hh\\:mm"),
 
@@ -54,24 +32,7 @@ namespace Application.Mappers
             {
                 funcionId = newFuncion.FuncionId,
                 pelicula = await _peliculaMapper.GeneratePeliculaGetResponse(newFuncion.Pelicula),
-                //pelicula = new PeliculaGetResponse
-                //{
-                //    peliculaId = newFuncion.Pelicula.PeliculaId,
-                //    titulo = newFuncion.Pelicula.Titulo,
-                //    poster = newFuncion.Pelicula.Poster,
-                //    genero = new Response.Genero
-                //    {
-                //        id = newFuncion.Pelicula.Genero.GeneroId,
-                //        nombre = newFuncion.Pelicula.Genero.Nombre,
-                //    },
-                //},
                 sala = await _salaMapper.GetSalaResponse(newFuncion.Sala),
-                //sala = new Response.Sala
-                //{
-                //    id = newFuncion.Sala.SalaId,
-                //    nombre = newFuncion.Sala.Nombre,
-                //    capacidad = newFuncion.Sala.Capacidad,
-                //},
                 fecha = newFuncion.Fecha.ToString("dd-MM-yyyy"),
                 horario = newFuncion.Horario.ToString("hh\\:mm")
             };
@@ -103,12 +64,6 @@ namespace Application.Mappers
             foreach (Funcion unaFuncion in listaFunciones)
             {
                 funcionesDelete.Add(await GenerateFuncionDelete(unaFuncion));
-                //FuncionDelete funcion = new FuncionDelete
-                //{
-                //    funcionId = unaFuncion.FuncionId,
-                //    fecha = unaFuncion.Fecha.ToString("yyyy-MM-dd"),
-                //    horario = unaFuncion.Horario.ToString(),
-                //};
 
             }
             return funcionesDelete;

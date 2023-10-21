@@ -13,18 +13,18 @@ namespace Infraestructure.Config
             entityBuilder.HasMany<Funcion>(pel => pel.Funciones)
                 .WithOne(fun => fun.Pelicula)
                 .HasForeignKey(fun => fun.PeliculaId)
-                .IsRequired(false);
+                .IsRequired();
             entityBuilder.Property(pel => pel.Titulo)
                 .HasMaxLength(50)
                 .IsRequired();
             entityBuilder.Property(pel => pel.Sinopsis)
-                .HasMaxLength(1000)
+                .HasMaxLength(255)
                 .IsRequired();
             entityBuilder.Property(pel => pel.Poster)
-                .HasMaxLength(200)
+                .HasMaxLength(100)
                 .IsRequired();
             entityBuilder.Property(pel => pel.Trailer)
-                .HasMaxLength(200)
+                .HasMaxLength(100)
                 .IsRequired();
         }
     }

@@ -1,20 +1,15 @@
 ﻿using Application.Interfaces;
 using Application.Response;
 using Domain.Entities;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Application.Mappers
 {
-    public class PeliculaMapper: IPeliculaMapper
+    public class PeliculaMapper : IPeliculaMapper
     {
         private readonly IGeneroMapper _generoMapper;
 
 
-        public PeliculaMapper (IGeneroMapper generoMapper)
+        public PeliculaMapper(IGeneroMapper generoMapper)
         {
             _generoMapper = generoMapper;
         }
@@ -27,11 +22,6 @@ namespace Application.Mappers
                 titulo = pelicula.Titulo,
                 poster = pelicula.Poster,
                 genero = await _generoMapper.GetGeneroMapper(pelicula.Genero),
-                //genero = new Response.Genero
-                //{
-                //    id = newFuncion.Pelicula.Genero.GeneroId,
-                //    nombre = newFuncion.Pelicula.Genero.Nombre,
-                //},
             };
         }
 
@@ -44,11 +34,6 @@ namespace Application.Mappers
                 poster = unaPelicula.Poster,
                 sinopsis = unaPelicula.Sinopsis,
                 genero = await _generoMapper.GetGeneroMapper(unaPelicula.Genero),
-                //genero = new Response.Genero
-                //{
-                //    id = unaPelicula.Genero.GeneroId,
-                //    nombre = unaPelicula.Genero.Nombre,
-                //},
                 funciones = await GenerateDeleteFunciones(unaPelicula.Funciones),
             };
         }
@@ -69,13 +54,6 @@ namespace Application.Mappers
             foreach (Funcion unaFuncion in listaFunciones)
             {
                 funcionesDelete.Add(await GenerateFuncionDelete(unaFuncion));
-                //FuncionDelete funcion = new FuncionDelete
-                //{
-                //    funcionId = unaFuncion.FuncionId,
-                //    fecha = unaFuncion.Fecha.ToString("yyyy-MM-dd"),
-                //    horario = unaFuncion.Horario.ToString(),
-                //};
-
             }
             return funcionesDelete;
         }

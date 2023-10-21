@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "s7iR6EnY2xsYKmrjRVOu9+IAm47wmMa176RgEAftDcBmOjMjAXtLLHbTDMcSL0td+5CWMnw/0NCDeeC7x7nsng==",
+  "dgSpecHash": "XzBFl4CUyAM1R1xAJb1h7GO7cWQxvNeDTc3EwAEsmPZjwtmf2HHCGiaWefgc/JXY66KJuAB6B47rwBoNVKu2Bg==",
   "success": true,
-  "projectFilePath": "E:\\facultad\\cuarto año\\segundo cuatrimestre\\proyecto software\\TP2\\Domain\\Domain.csproj",
+  "projectFilePath": "D:\\facultad\\cuarto año\\segundo cuatrimestre\\proyecto software\\TP2 Cine\\Domain\\Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lucas\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Lucas\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
