@@ -32,6 +32,7 @@ namespace Application.Mappers
                 peliculaId = unaPelicula.PeliculaId,
                 titulo = unaPelicula.Titulo,
                 poster = unaPelicula.Poster,
+                trailer = unaPelicula.Trailer,
                 sinopsis = unaPelicula.Sinopsis,
                 genero = await _generoMapper.GetGeneroMapper(unaPelicula.Genero),
                 funciones = await GenerateDeleteFunciones(unaPelicula.Funciones),
